@@ -24,7 +24,7 @@ Image 0.png and 4095.png contains the same total appended bytes. When you compar
 
 # Puzzle 04
 
-Image 667.png had some appended bytes at the end of the image. Every file can be identified by the "magic byte/file signature". This is the first few bytes of a file. If you look at the appended bytes, you can see it starts with RIFF or "52 49 46 46" in hex. A file which start with RIFF is a Waveform Audio File Format or better known as a WAV file. When you extract the WAV and play it, you will hear a weird high-pitch noice. The WAV actually contains text. A spectrogram is a visual representation of the spectrum of frequencies of a signal as it varies with time. Spectrograms of audio can be used to identify spoken words phonetically, and to analyse the various calls of animals. A common tool to get the text from a WAV file is Coagula. The text shown is the flag.
+Image 1001.png had some appended bytes at the end of the image. Every file can be identified by the "magic byte/file signature". This is the first few bytes of a file. If you look at the appended bytes, you can see it starts with RIFF or "52 49 46 46" in hex. A file which start with RIFF is a Waveform Audio File Format or better known as a WAV file. When you extract the WAV and play it, you will hear a weird high-pitch noice. The WAV actually contains text. A spectrogram is a visual representation of the spectrum of frequencies of a signal as it varies with time. Spectrograms of audio can be used to identify spoken words phonetically, and to analyse the various calls of animals. A common tool to get the text from a WAV file is Coagula. The text shown is the flag.
 
 :checkered_flag: WBC{WH4T_TH3_W4V}<br>
 :link: No script yet.
