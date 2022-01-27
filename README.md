@@ -34,7 +34,7 @@ This repository contains all scripts to solve the November 2021 NFT puzzle for w
 
 # Puzzle 06
 
-
+This puzzle was the easiest of them all. At image 890.png metadata is added in the documentname field. The data is base64 encoded and can be decoded to get the flag. The base64 encoded string is V0JDezRMTF9ZMFVSX0I0UzNfNFIzX0IzTDBOR19UMF9VU30=.
 
 :checkered_flag: WBC{4LL_Y0UR_B4S3_4R3_B3L0NG_T0_US}<br>
 :link: No script yet.
