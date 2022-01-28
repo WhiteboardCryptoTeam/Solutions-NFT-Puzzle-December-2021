@@ -20,7 +20,7 @@ def main():
 
   flag = []
 
-  with open("1.png", "rb") as f1, open("2.png", "rb") as f2:
+  with open("extractedBytesImage0.bin", "rb") as f1, open("extractedBytesImage4095.bin", "rb") as f2:
     byte1 = f1.read(1)
     byte2 = f2.read(1)
 
